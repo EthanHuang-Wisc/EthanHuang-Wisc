@@ -1,2 +1,2 @@
-# ethanhuang-wisc.github.io
-my personal webpage
+# mywebsite
+This is my website
